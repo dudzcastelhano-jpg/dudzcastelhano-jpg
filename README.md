@@ -1,4 +1,20 @@
 ### Olá, eu sou o Eduardo! 👋
-🎓 Estudante de Administração na UNICAMP
-💻 Focado em Power BI, Python e Dados
-🚀 Atualmente cursando: CS50x (Harvard);
+
+Sou estudante de **Administração na UNICAMP** focado na intersecção entre Negócios e Tecnologia.
+Atualmente estou aprimorando minhas habilidades em Análise de Dados e Desenvolvimento de Software.
+
+- 🎓 **Estudando:** Administração Empresárial @ UNICAMP
+- 🧠 **Aprendendo:** CS50x (Harvard University)
+- 📊 **Foco:** Power BI, Python, SQL & Excel Avançado
+- 💼 **Objetivo:** Transformar dados em decisões estratégicas.
+
+---
+
+### 🛠️ Tech Stack
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+⭐️ *Building the future, one line of code at a time.*
