@@ -16,12 +16,12 @@ Atualmente estou aprimorando minhas habilidades em Análise de Dados e Desenvolv
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
-### 📈 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudzcastelhano-jpg&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudzcastelhano-jpg&layout=compact&theme=dark" />
-</div>
 
 ---
+
+### 🚀 Em breve
+Estou construindo meu portfólio. Acompanhe meu progresso no **CS50x 2026**!
+
+---
+
 ⭐️ *Building the future, one line of code at a time.*
