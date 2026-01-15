@@ -19,8 +19,8 @@ Atualmente estou aprimorando minhas habilidades em Análise de Dados e Desenvolv
 ---
 ### 📈 Minhas Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudzcastelhano-jpg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudzcastelhano-jpg&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dudzcastelhano-jpg&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudzcastelhano-jpg&layout=compact&theme=dark" />
 </div>
 
 ---
